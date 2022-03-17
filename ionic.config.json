@@ -1,0 +1,7 @@
+{
+  "name": "myFirtsApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
